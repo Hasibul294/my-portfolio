@@ -11,6 +11,7 @@ h1{
 section{
     display: flex;
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -31,4 +32,8 @@ section{
 }
 .bac-img{
     background-image: url(images/top-banner.png);
+}
+.big-dream{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
 }
